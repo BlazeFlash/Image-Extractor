@@ -1,0 +1,1 @@
+Upgrades for files in the PyPDF2 directory to use the DCT Decode format in files and other upgrades
