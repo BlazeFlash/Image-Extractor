@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 25 20:29:51 2019
-
-@author: APPED
-"""
 import struct
 import io
 from collections import namedtuple
