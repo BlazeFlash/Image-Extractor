@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 29 01:21:09 2019
 
-@author: APPED
-"""
 
 #creating zip files and placing files in them and then deleting the previous folders
 import os
